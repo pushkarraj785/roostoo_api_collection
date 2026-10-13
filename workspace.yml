@@ -4,6 +4,12 @@ info:
   type: workspace
 
 collections:
+  - name: "roostoo_public_api"
+    path: "collections/roostoo_public_api"
+  - name: "roostoo_staging_api"
+    path: "collections/roostoo_staging_api"
+  - name: "roostoo_production_api"
+    path: "collections/roostoo_production_api"
 
 specs:
 
